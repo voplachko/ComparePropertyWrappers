@@ -11,7 +11,7 @@ import SwiftUI
 struct ComparePropertyWrappersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RandomNumberView()
         }
     }
 }
